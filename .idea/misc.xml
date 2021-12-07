@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mira/Desktop/EZTest/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Mira/Desktop/EZTest/app/src/main/res/drawable/border.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Mira/Desktop/EZTest/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Mira/Desktop/EZTest/app/src/main/res/layout/activity_main.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Mira/Desktop/EZTest/app/src/main/res/layout/activity_score.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Mira/Desktop/EZTest/app/src/main/res/layout/activity_teacher_main.xml" value="0.264" />
+        <entry key="..\:/Users/Mira/Desktop/EZTest/app/src/main/res/layout/fragment_create_fill.xml" value="0.2" />
+        <entry key="..\:/Users/Mira/Desktop/EZTest/app/src/main/res/layout/fragment_create_mcq.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Mira/Desktop/EZTest/app/src/main/res/layout/fragment_create_true_false.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Mira/Desktop/EZTest/app/src/main/res/layout/fragment_fill.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Mira/Desktop/EZTest/app/src/main/res/layout/fragment_match.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Mira/Desktop/EZTest/app/src/main/res/layout/fragment_mcq.xml" value="0.264" />
+        <entry key="..\:/Users/Mira/Desktop/EZTest/app/src/main/res/layout/fragment_true_false.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Mira/Desktop/EZTest/app/src/main/res/layout/quiz_row.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/USP/AndroidStudioProjects/EZTest/app/src/main/res/drawable/border.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/USP/AndroidStudioProjects/EZTest/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/USP/AndroidStudioProjects/EZTest/app/src/main/res/layout/activity_quiz_adapter.xml" value="0.19375" />
+        <entry key="..\:/Users/USP/AndroidStudioProjects/EZTest/app/src/main/res/layout/activity_score.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/USP/AndroidStudioProjects/EZTest/app/src/main/res/layout/activity_student_main.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/USP/AndroidStudioProjects/EZTest/app/src/main/res/layout/activity_teacher_main.xml" value="0.22" />
+        <entry key="..\:/Users/USP/AndroidStudioProjects/EZTest/app/src/main/res/layout/content_quiz_adapter.xml" value="0.1859375" />
+        <entry key="..\:/Users/USP/AndroidStudioProjects/EZTest/app/src/main/res/layout/fragment_create_fill.xml" value="0.11354166666666667" />
+        <entry key="..\:/Users/USP/AndroidStudioProjects/EZTest/app/src/main/res/layout/fragment_create_true_false.xml" value="0.14010416666666667" />
+        <entry key="..\:/Users/USP/AndroidStudioProjects/EZTest/app/src/main/res/layout/fragment_fill.xml" value="0.25" />
+        <entry key="..\:/Users/USP/AndroidStudioProjects/EZTest/app/src/main/res/layout/fragment_first.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/USP/AndroidStudioProjects/EZTest/app/src/main/res/layout/fragment_match.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/USP/AndroidStudioProjects/EZTest/app/src/main/res/layout/fragment_mcq.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/USP/AndroidStudioProjects/EZTest/app/src/main/res/layout/fragment_second.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/USP/AndroidStudioProjects/EZTest/app/src/main/res/layout/fragment_student_main.xml" value="0.190625" />
+        <entry key="..\:/Users/USP/AndroidStudioProjects/EZTest/app/src/main/res/layout/fragment_true_false.xml" value="0.22" />
+        <entry key="..\:/Users/USP/AndroidStudioProjects/EZTest/app/src/main/res/layout/quiz_row.xml" value="0.20833333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

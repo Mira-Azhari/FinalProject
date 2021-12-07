@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.StudentMain"
+    android:background="@color/grey"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="50dp"
+        >
+        <ImageView
+            android:id="@+id/icon_imageview"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/eztestlogo"
+            />
+        <TextView
+            android:gravity="center_vertical"
+            android:id="@+id/usertype_textview"
+            android:layout_width="200dp"
+            android:layout_height="100dp"
+            android:textSize="30dp"
+            android:text="Student"
+            android:textColor="@color/blue"
+            />
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/tests_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Choose Test"
+        android:layout_below="@+id/header"
+        android:layout_margin="10dp"
+        android:textSize="30dp"
+        android:textColor="@color/blue"
+        android:textStyle="bold"
+        />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/tests_recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/tests_textview"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="40dp"
+        android:background="@color/darkgrey" />
+
+    <FrameLayout
+        android:id="@+id/framelayout_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone" />
+
+    </ScrollView>
+
+</RelativeLayout>
